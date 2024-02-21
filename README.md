@@ -4,7 +4,7 @@ Here is my Portfolio demonstrating my Front-End Skill using
 +Reactjs
 +Tailwind
 
-please find direct PortFolio Link here: <a href="https://portfolio-tau-wine-71.vercel.app/" {target="\_blank"}>Link To Portfolio</a>
+please find direct PortFolio Link here: <a href="https://portfolio-tau-wine-71.vercel.app/" target="_blank">Link To Portfolio</a>
 
 # React + Vite
 
