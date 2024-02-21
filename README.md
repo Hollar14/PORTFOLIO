@@ -1,10 +1,10 @@
 Here is my Portfolio demonstrating my Front-End Skill using
 
-<ul style=" text-decoration: none">
+<ol style=" text-decoration: none,">
 <li>Javascript<li>
 <li>Reactjs<li>
 <li>Tailwind<li>
-</ul>
+</ol>
 please find below direct
 
 PortFolio Link: <a href="https://portfolio-tau-wine-71.vercel.app/" target="_blank">Link To Portfolio</a>
