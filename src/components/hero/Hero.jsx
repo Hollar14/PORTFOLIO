@@ -10,6 +10,7 @@ import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/LawalIsa.pdf";
 import model from "../../assets/Model.jpeg";
+import developer from "../../assets/Developer.png";
 
 const Hero = () => {
   return (
@@ -120,8 +121,10 @@ const Hero = () => {
                 className=" relative cursor-pointer"
               >
                 <img
-                  className=" w-[135px] md:w-[90px] circle-text"
-                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
+                  className=" w-[100px] md:w-[90px] circle-text rounded-full"
+                  src="https://ik.imagekit.io/vjrfjcbvr/web-developer.png?updatedAt=1708557437493"
+                  // src={developer}
+                  // src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
                   alt=""
                 />
                 <FaPlay className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />
