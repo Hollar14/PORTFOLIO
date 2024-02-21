@@ -1,4 +1,4 @@
-PortFolio Link: https://portfolio-tau-wine-71.vercel.app/
+PortFolio Link: <link href="https://portfolio-tau-wine-71.vercel.app/" target="-blank">
 
 # React + Vite
 
