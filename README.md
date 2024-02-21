@@ -1,13 +1,10 @@
 Here is my Portfolio demonstrating my Front-End Skill using
 
-<ol style=" text-decoration: none,">
-<li>Javascript<li>
-<li>Reactjs<li>
-<li>Tailwind<li>
-</ol>
-please find below direct
++Javascript
++Reactjs
++Tailwind
 
-PortFolio Link: <a href="https://portfolio-tau-wine-71.vercel.app/" target="_blank">Link To Portfolio</a>
+please find direct PortFolio Link here: <a href="https://portfolio-tau-wine-71.vercel.app/" target="_blank">Link To Portfolio</a>
 
 # React + Vite
 
