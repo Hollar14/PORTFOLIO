@@ -62,7 +62,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
             to="/"
             className="text-3xl font-bold sm:text-3xl"
           >
-            Lawal Isa.
+            Lawal Isa O.
           </Link>
         </div>
         <div
@@ -80,7 +80,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
           <ul
             className={`flex items-center space-x-11 ${
               !isOpen ? "md:flex" : "md:right-[0%]"
-            } md:flex-col md:absolute m-auto md:top-0 md:right-[-100%] md:w-[78%] md:h-screen md:bg-white `}
+            } md:flex-col md:absolute m-auto md:top-0 md:h-screen md:bg-white `}
           >
             {/* Use a button tag for better accessibility */}
             <button
